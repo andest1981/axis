@@ -24,7 +24,7 @@ class Sets:
         self.RPATH = 0
         self.ADMODE = 1
         self.CUSHDR0 = 'X-Online-Host'
-        self.VALHDR0 = '118.97.159.51'
+        self.VALHDR0 = 'ff.garena.co.id'
         self.CUSHDR1 = 'Connection'
         self.VALHDR1 = 'Keep-Alive'
         self.CUSHDR2 = ''
